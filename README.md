@@ -1,4 +1,4 @@
-# Actual vs Budget Dashboard
+# 1. Actual vs Budget Dashboard
 
 ## Overview
 The **Actual vs Budget Dashboard** is a financial tracking tool that compares actual income and expenses against budgeted values across various categories. Using data visualizations, it highlights discrepancies, helping users monitor their spending and achieve financial goals.
