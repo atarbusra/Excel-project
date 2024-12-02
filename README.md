@@ -1,3 +1,4 @@
+This repository demonstrates my proficiency in data analysis and visualization using Excel. Feel free to explore and customize the file!
 # 1. Actual vs Budget Dashboard
 
 ## Overview
@@ -26,3 +27,26 @@ Each row in the dataset represents a specific category, with columns for:
 2. **Pie Chart**  
    - Represents the distribution of actual expenses across all categories.
    - Provides an overview of spending allocation.
+
+# 2. Profit and Loss Pivot Table
+This project includes an interactive pivot table for evaluating profit and loss metrics, highlighting key trends in revenue, costs, expenses, and profitability across regions and financial years.
+
+## Key Features
+
+- **Revenue Analysis**: Compare actual vs. budgeted values with variance percentages.
+- **Cost Control**: Assess cost of goods sold (COGS) and expense categories.
+- **Profitability Insights**: Highlight gross and net profit, with a net profit variance of **400.3%**.
+
+## File Overview
+
+- **Profit and Loss Pivot Table.xlsx**:
+  - **P&L Sheet**: Interactive pivot table summarizing key metrics.
+  - **Data Sheet**: Raw dataset used for analysis.
+
+## How to Use
+
+1. Clone this repository or download the `Profit and Loss Pivot Table.xlsx` file.
+2. Open the file in **Microsoft Excel** (or compatible software).
+3. Navigate to the **P&L Sheet** to explore or customize the pivot table for deeper insights.
+
+
